@@ -1,0 +1,22 @@
+// _sass/_custom.scss
+// Accent colour — matches DINO-3DRA project page green
+// al-folio picks this up automatically if you import it in assets/css/main.scss
+
+$theme-color: #0F6E56;
+
+// Override link colour to match
+a {
+  color: $theme-color;
+  &:hover {
+    color: darken($theme-color, 10%);
+  }
+}
+
+// Project card badge for "Under Review"
+.badge-under-review {
+  background-color: #f0ad4e;
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
