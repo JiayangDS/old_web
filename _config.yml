@@ -4,7 +4,7 @@
 title: Jiayang Lu
 first_name: Jiayang
 last_name: Lu
-email: [jiayanglu123@gmail.com]
+email: jiayanglu123@gmail.com
 description: >
   PhD Applicant | AI for Medical & Biological Applications |
   MSc Health Data Science, University of Manchester
@@ -26,9 +26,9 @@ theme: al-folio
 # -----------------------------------------------------------------------------
 # Social / Contact
 # -----------------------------------------------------------------------------
-github_username:   [JiayangDS]   # e.g. jiayanglu
-linkedin_username: [jiayanglu123]          # e.g. jiayang-lu
-scholar_userid:    [Vacsjz4AAAAJ]        # from Google Scholar URL: ?user=XXXX
+github_username:   JiayangDS   # e.g. jiayanglu
+linkedin_username: jiayanglu123          # e.g. jiayang-lu
+scholar_userid:    Vacsjz4AAAAJ        # from Google Scholar URL: ?user=XXXX
 
 # Set to false to hide address block
 display_address: false
@@ -41,8 +41,8 @@ contact_note: >
 # Author highlighting in publications
 # -----------------------------------------------------------------------------
 scholar:
-  last_name: [Lu]
-  first_name: [Jiayang, J.]
+  last_name: Lu
+  first_name: Jiayang, J.
 
 # -----------------------------------------------------------------------------
 # Navbar pages
